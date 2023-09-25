@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">List App</string>
+
+    <string-array name="vehicles">
+        <item>Xf gti</item>
+        <item>Xr gt turbo</item>
+        <item>Lx6</item>
+        <item>Formula BMW</item>
+        <item>BMW Sauber F1</item>
+    </string-array>
+
+    <string-array name="powers">
+        <item>115 BHP</item>
+        <item>205 BHP</item>
+        <item>190 BHP</item>
+        <item>140 BHP</item>
+        <item>720 BHP</item>
+
+    </string-array>
+
+    <string-array name="weights">
+        <item>942 KG</item>
+        <item>1223 KG</item>
+        <item>539 KG</item>
+        <item>465 KG</item>
+        <item>530 KG</item>
+    </string-array>
+
+</resources>
